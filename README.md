@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/Phonbopit/phonbopit/blob/master/500.png" />
+<img width="100%" src="https://github.com/chinz100" />
 <div align="center">
   <br>
   <p><strong>Wow Wow Wooooo!</strong></p>
